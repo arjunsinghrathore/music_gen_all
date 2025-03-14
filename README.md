@@ -1,7 +1,5 @@
 # MusicGen-All: Context-Based Music Generation
 
-![Music Generation](https://github.com/arjunsinghrathore/music_gen_all/blob/main/assets/banner.png)
-
 ## Overview
 This project presents an end-to-end pipeline for generating music based on various input modalities, including text, audio, and image. At its core, the system utilizes **MusicGen**, a state-of-the-art text-to-music generation model, and enhances its performance using **Retrieval-Augmented Generation (RAG)** to provide context-aware music generation. 
 
