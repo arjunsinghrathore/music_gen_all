@@ -37,12 +37,7 @@ By integrating **context retrieval** from diverse inputs, this project ensures t
 
 ---
 
-## Installation & Setup
-```bash
-git clone https://github.com/arjunsinghrathore/music_gen_all.git
-cd music_gen_all
-pip install -r requirements.txt
-```
+
 Ensure you have access to APIs for:
 - **OpenAI GPT (for context extraction & keyword retrieval)**
 - **Facebook MusicGen (for music generation)**
