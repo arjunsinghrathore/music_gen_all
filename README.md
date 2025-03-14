@@ -17,7 +17,8 @@ By integrating **context retrieval** from diverse inputs, this project ensures t
 ---
 
 ## System Architecture
-![Architecture](https://github.com/arjunsinghrathore/music_gen_all/blob/main/assets/image.png)
+<img width="743" alt="image" src="https://github.com/user-attachments/assets/c4c9d49f-009a-4eee-b00d-e4fd34803a5e" />
+
 
 1. **User Input Processing**:
    - Text inputs are directly processed.
