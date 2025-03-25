@@ -62,7 +62,7 @@ For video/audio inputs, specify file paths and the system will extract context a
 ---
 
 ## Example Outputs
-🎵 **Generated Music Sample**: [Listen here]([https://github.com/arjunsinghrathore/music_gen_all/samples/output.mp3](https://drive.google.com/file/d/1c6ds5DTtxRh-oY_RGN7uD76ZJ1J5AvCk/view?resourcekey))
+🎵 **Generated Music Sample**: [Listen here](https://github.com/arjunsinghrathore/music_gen_all/blob/main/Music_Sample.wav)
 
 ---
 
