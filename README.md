@@ -35,6 +35,9 @@ By integrating **context retrieval** from diverse inputs, this project ensures t
    - Generated prompts are fed into `MusicGen`.
    - Outputs high-quality, contextually relevant music.
 
+
+<img width="1269" alt="image" src="https://github.com/user-attachments/assets/563d14f8-6eda-420a-a5f0-26ccc4decfe2" />
+
 ---
 
 
@@ -59,7 +62,7 @@ For video/audio inputs, specify file paths and the system will extract context a
 ---
 
 ## Example Outputs
-🎵 **Generated Music Sample**: [Listen here](https://github.com/arjunsinghrathore/music_gen_all/samples/output.mp3)
+🎵 **Generated Music Sample**: [Listen here]([https://github.com/arjunsinghrathore/music_gen_all/samples/output.mp3](https://drive.google.com/file/d/1c6ds5DTtxRh-oY_RGN7uD76ZJ1J5AvCk/view?resourcekey))
 
 ---
 
